@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "omgauth"
   spec.version       = Omgauth::VERSION
   spec.authors       = ["Jared Grippe"]
-  spec.email         = ["jared@deadlyicon.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.email         = ["jared@devbootcamp.com"]
+  spec.description   = %q{multiple oauth support}
+  spec.summary       = %q{multiple oauth support}
   spec.homepage      = ""
   spec.license       = "MIT"
 

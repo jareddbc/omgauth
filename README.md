@@ -1,6 +1,6 @@
 # Omgauth
 
-TODO: Write a gem description
+multiple oauth support is awesome!
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+      require 'omgauth'
+
+      Omgauth.omg!
 
 ## Contributing
 
