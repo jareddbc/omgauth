@@ -1,5 +1,6 @@
 require "omgauth/version"
+# require 'omgauth/authentication'
 
-module Omgauth
-  # Your code goes here...
+class Omgauth
+  autoload :Authentication, 'omgauth/authentication'
 end
